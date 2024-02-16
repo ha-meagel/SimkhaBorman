@@ -106,7 +106,7 @@ Markdown | не такой | красивый
 * __git push__ – отправляет локальную версию репозитория на внешний (удаленный) репозиторий 
 
 ## Заключение
-Больше о git можно узнать по [ссылке](https://docs.github.com/ru/get-started/getting-started-with-git/set-up-git).  
+Больше о git можно узнать по [ссылке](https://docs.github.com/ru/get-started/getting-started-with-git/set-up-git). 
 
 
 
